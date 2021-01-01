@@ -1,0 +1,6 @@
+(source gnu melpa)
+
+(package (vmt
+          (recipe . (:fetcher github :repo "ROCKTAKEY/vmt"))))
+
+(dev-dependency undercover)
